@@ -15,6 +15,6 @@
 
 
 [GD]: https://drive.google.com/drive/folders/1anXf0owlXjyu_qc7mF-_ayNJGfo_0CiV
-[textFormat]: https://cdocs.netlify.app/#/about#語料檔
-[timeFormat]: https://cdocs.netlify.app/#/about#IU-時間檔
+[textFormat]: /#/about#語料檔
+[timeFormat]: /#/about#IU-時間檔
 [corpStats]: https://yongfu.name/glossParser/meta/
