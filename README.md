@@ -1,10 +1,41 @@
-# Home
+南島語料庫管理說明
+=================
+
 
 ## 網站更新流程
 
-<embed src="_media/data_update_flow.pdf#zoom=125&scrollbar=1&toolbar=1&navpanes=0" width="100%" height="700" type="application/pdf">
+<embed src="_media/data_update_flow.pdf#view=FitH&scrollbar=1&toolbar=0&navpanes=0" width="100%" height="520" type="application/pdf">
 
 
+## 網站 Google Drive 結構
+
+```tree
+.
+├── 網頁資訊
+│   ├── about.md
+│   ├── about-en.md
+│   ├── external_links.md
+│   ├── external_links-en.md
+└── 公開語料
+    ├── sentence
+    │   ├── Bunun_Isbukun
+    │   |   ├── 1.txt
+    │   |   └── 2.txt
+    │   └── Kanakanavu_Kanakanavu
+    │       ├── 1.txt
+    │       └── ...
+    └── story
+        ├── Amis_Ciwkangan
+        |   ├── Amis_Conv-farming_marang_furayang.txt
+        |   ├── Amis_Nr-frog_cinhua.txt
+        |   └── ...
+        ├── Atayal_Mayrinax
+            ├── AtaNr-dailylife1_Iwan.txt
+            └── ...
+        ├── Rukai_Vedai
+        ├── ...
+        └── Tsou_Tfya
+```
 
 ## 重要連結
 
