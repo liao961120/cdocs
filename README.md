@@ -21,7 +21,7 @@
 3. [語料庫統計資訊][corpStats]
 
 
-[GD]: https://drive.google.com/drive/folders/1anXf0owlXjyu_qc7mF-_ayNJGfo_0CiV
+[GD]: https://drive.google.com/drive/folders/157b3nuLmqqZZrXzw0MOas_l3s6MWnK7Q
 [corpUpdate]: https://cdocs.netlify.app/#/update
 [textFormat]: corpus_file
 [timeFormat]: iu_file
