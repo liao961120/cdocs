@@ -22,7 +22,7 @@
 
 
 [GD]: https://drive.google.com/drive/folders/157b3nuLmqqZZrXzw0MOas_l3s6MWnK7Q
-[corpUpdate]: https://cdocs.netlify.app/#/update
+[corpUpdate]: https://cdocs.netlify.app
 [textFormat]: corpus_file
 [timeFormat]: iu_file
 [corpStats]: https://yongfu.name/glossParser/meta/
