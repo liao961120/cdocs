@@ -7,6 +7,28 @@
 <embed src="_media/data_update_flow.pdf#view=FitH&scrollbar=1&toolbar=0&navpanes=0" width="100%" height="520" type="application/pdf">
 
 
+## 重要連結
+
+### 內文
+
+1. [語料檔格式][textFormat]
+2. [錄音資訊更新][timeFormat]
+
+### 外部
+
+1. [語料檔 Google Drive][GD] (for 網站)
+2. [啟動資料更新][corpUpdate]
+3. [語料庫統計資訊][corpStats]
+
+
+[GD]: https://drive.google.com/drive/folders/1anXf0owlXjyu_qc7mF-_ayNJGfo_0CiV
+[corpUpdate]: https://cdocs.netlify.app/#/update
+[textFormat]: corpus_file
+[timeFormat]: iu_file
+[corpStats]: https://yongfu.name/glossParser/meta/
+
+
+
 ## 網站 Google Drive 結構
 
 ```tree
@@ -36,19 +58,3 @@
         ├── ...
         └── Tsou_Tfya
 ```
-
-## 重要連結
-
-1. [語料檔 Google Drive][GD] (for 網站)
-2. [啟動資料更新][corpUpdate]
-3. [語料檔格式][textFormat]
-4. [IU 時間檔格式][timeFormat]
-5. [語料庫統計資訊][corpStats]
-
-
-
-[GD]: https://drive.google.com/drive/folders/1anXf0owlXjyu_qc7mF-_ayNJGfo_0CiV
-[corpUpdate]: https://cdocs.netlify.app/#/update
-[textFormat]: corpus_file
-[timeFormat]: iu_file
-[corpStats]: https://yongfu.name/glossParser/meta/
