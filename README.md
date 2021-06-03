@@ -16,7 +16,7 @@
 
 ### 外部
 
-1. [語料檔 Google Drive][GD] (for 網站)
+1. [Google Drive][GD] (for 網站)
 2. [啟動資料更新][corpUpdate]
 3. [語料庫統計資訊][corpStats]
 
