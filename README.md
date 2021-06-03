@@ -18,7 +18,7 @@
 
 1. [Google Drive][GD] (for 網站)
 2. [啟動資料更新][corpUpdate]
-3. [語料庫統計資訊][corpStats]
+3. [語料統計資訊][corpStats]
 
 
 [GD]: https://drive.google.com/drive/folders/157b3nuLmqqZZrXzw0MOas_l3s6MWnK7Q
