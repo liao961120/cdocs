@@ -7,7 +7,12 @@
 
 ## 網站更新流程
 
-<embed src="_media/data_update_flow.pdf#view=FitH&scrollbar=1&toolbar=0&navpanes=0" width="100%" height="520" type="application/pdf">
+
+[Open PDF](_media/data_update_flow.pdf ':target=_blank :ignore')
+
+<embed src="_media/data_update_flow.pdf#view=FitH&scrollbar=1&toolbar=0&navpanes=0" width="100%" height="520" type="application/pdf" class="pc">
+
+<img src="_media/data_update_flow.png" width="100%" class="mobile">
 
 
 ## 重要連結
