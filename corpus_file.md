@@ -21,18 +21,28 @@
 
 每份語料檔的一開頭 (不可以有空行) 為語料資訊區塊。長相如下：
 
-```
-topic: pear_panay
-type: Narrative
-language: 撒奇萊雅語, Sakizaya, Sakizaya
-speaker: 葉阿妹, panay, female, 1949-11-20
-collected: 2008-01-05
-revised: None
-video: skzyNr-pear_panay.mp3
-```
+- Story
+    ```
+    topic: pear_panay
+    type: Narrative
+    language: 撒奇萊雅語, Sakizaya, Sakizaya
+    speaker: 葉阿妹, panay, female, 1949-11-20
+    collected: 2008-01-05
+    revised: None
+    video: skzyNr-pear_panay.mp3
+    Transcribed by: Somebody
+    ```
+- Sentence
+    ```
+    type: Sentence
+    language: 卡那卡那富語, Kanakanavu, Kanakanavu
+    speaker: None
+    collected: None
+    Transcribed by: 鄧安婷
+    ```
 
 - 上方的每行都是一項資訊，結構以 `<資訊種類>: <內容>` 書寫。注意，請使用**半形**冒號 `:`，冒號之後需加上一個**半形空白**
-- 這些資訊之中，`language`、`speaker`、`collected` 是必要的；如果有相對應的音檔，請寫在 `video`；`topic` 與 `type` 則是篇章類型的語料才需提供。在寫下這些資訊時，請檢查是否**拼錯**，並且全部使用**小寫**
+- 這些資訊之中，`type` 、`language`、`speaker`、`collected` 是必要的。在寫下這些資訊時，請檢查是否**拼錯**，並且全部使用**小寫**
 
 !> 寫完語料資訊之後，**務必要留一行以上的空行**後再開始下個部份 (語言轉寫)。
 
